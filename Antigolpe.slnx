@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Antigolpe/Antigolpe.csproj" />
+  <Project Path="Antigolpe.WinForms/Antigolpe.WinForms.csproj" />
+</Solution>
