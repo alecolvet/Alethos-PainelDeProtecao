@@ -4,7 +4,7 @@ Painel desktop da CitizenTech **Alethos: guardião antigolpe**, projeto da Globa
 
 ## Equipe
 
-**Nome da equipe:** [nome da equipe]
+**Nome da equipe:**
 
 | Nome completo | RM |
 | --- | --- |
@@ -20,7 +20,7 @@ Golpes digitais contra idosos crescem todo ano: falso parente pedindo Pix, falsa
 
 ## Pessoa real beneficiada
 
-[Descreva a pessoa entrevistada pela equipe, sem dados que a identifiquem. Exemplo de formato: "Dona M., 74 anos, moradora da zona norte de São Paulo, recebeu uma mensagem de um falso neto pedindo Pix e quase transferiu o dinheiro."]
+Idosos e pessoas com pouco conhecimento de internet e tecnologia.
 
 O painel também atende quem acompanha esses idosos: o atendente de um centro de convivência, CRAS ou associação de bairro, que registra os casos, acompanha o andamento e identifica os golpes mais frequentes para orientar as oficinas.
 
